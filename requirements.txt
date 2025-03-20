@@ -1,0 +1,8 @@
+tqdm
+scipy
+numpy
+pandas
+matplotlib
+PyWavelets
+gekko
+seaborn
