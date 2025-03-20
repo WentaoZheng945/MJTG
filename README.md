@@ -2,11 +2,11 @@
 
 >  MJTG: A Multi-vehicle Joint Trajectory Generator for Complex and Rare Scenarios
 >
->  [Ye Tian](https://tops.tongji.edu.cn/info/1031/1185.htm)<sup>1, *<sup>, [Wentao Zheng](https://tops.tongji.edu.cn/info/1084/1480.htm)<sup>1<sup>, [Yinghao Shao](https://tops.tongji.edu.cn/info/1135/1782.htm)<sup>1<sup>, [He Zhang](https://tops.tongji.edu.cn/info/1033/1192.htm)<sup>1<sup> and [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm)<sup>1<sup>
+>  [Ye Tian](https://tops.tongji.edu.cn/info/1031/1185.htm)<sup>1, *</sup>, [Wentao Zheng](https://tops.tongji.edu.cn/info/1084/1480.htm)<sup>1</sup>, [Yinghao Shao](https://tops.tongji.edu.cn/info/1135/1782.htm)<sup>1</sup>, [He Zhang](https://tops.tongji.edu.cn/info/1033/1192.htm)<sup>1</sup> and [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm)<sup>1</sup>
 >
->  <sup>1<sup>Tongji University
+>  <sup>1</sup>Tongji University
 >
->  <sup>*<sup>Correspondance：tianye@tongji.edu.cn
+>  <sup>*</sup>Correspondance：tianye@tongji.edu.cn
 
 + This repo is intended to serve as an introduction to our work. A data-driven method named the Multi-vehicle Joint Trajectory Generator (**MJTG**) framework is designed to selectively generate non-collected but potentially feasible scenarios.
 
