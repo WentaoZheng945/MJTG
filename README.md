@@ -1,16 +1,16 @@
-# A Multi-vehicle Joint Trajectory Generator for Complex and Rare Scenarios
+# MJTG: A Multi-vehicle Joint Trajectory Generator for Complex and Rare Scenarios
 
 >  MJTG: A Multi-vehicle Joint Trajectory Generator for Complex and Rare Scenarios
 >
-> [Ye Tian](https://tops.tongji.edu.cn/info/1031/1185.htm)^1^^,^ ^*^, [Wentao Zheng](https://tops.tongji.edu.cn/info/1084/1480.htm)^1^, [Yinghao Shao](https://tops.tongji.edu.cn/info/1135/1782.htm)^1^, [He Zhang](https://tops.tongji.edu.cn/info/1033/1192.htm)^1^ and [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm)^1^
+>  [Ye Tian](https://tops.tongji.edu.cn/info/1031/1185.htm)<sup>1, *<sup>, [Wentao Zheng](https://tops.tongji.edu.cn/info/1084/1480.htm)<sup>1<sup>, [Yinghao Shao](https://tops.tongji.edu.cn/info/1135/1782.htm)<sup>1<sup>, [He Zhang](https://tops.tongji.edu.cn/info/1033/1192.htm)<sup>1<sup> and [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm)<sup>1<sup>
 >
-> ^1^Tongji University
+>  <sup>1<sup>Tongji University
 >
-> ^*^Correspondance：tianye@tongji.edu.cn
+>  <sup>*<sup>Correspondance：tianye@tongji.edu.cn
 
 + This repo is intended to serve as an introduction to our work. A data-driven method named the Multi-vehicle Joint Trajectory Generator (**MJTG**) framework is designed to selectively generate non-collected but potentially feasible scenarios.
 
-![Display of Generated Cutin Scenarios](src/Display of Generated Cutin Scenarios.gif)
+![Display of Generated Cutin Scenarios](src/Display_of_Generated_Cutin_Scenarios.gif)
 
 + Updates:
 	+ Mar 19, 2025: Initial repo
