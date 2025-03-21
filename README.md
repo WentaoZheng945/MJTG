@@ -97,6 +97,12 @@ python main.py -type 1 -sample_batch_size 1500
 
 
 
+## Network structure
+
+![Supplementary_fig](src/Supplementary_fig.svg)]
+
+
+
 ## Acknowledgement & Disclaimer
 
 The code and resources provided in this project are for informational and learning purposes only. While every effort has been made to ensure their accuracy and reliability during the development process, we are not responsible for any direct or indirect damages arising from the use of this project. Users should evaluate the suitability of the code by themselves and make appropriate modifications and tests according to their needs.
