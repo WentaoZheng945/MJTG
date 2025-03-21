@@ -99,7 +99,13 @@ python main.py -type 1 -sample_batch_size 1500
 
 ## Network structure
 
-![Supplementary_fig](src/Supplementary_fig.svg)]
++ The network architecture of the model is shown in the figure below.
+
+![Supplementary_fig](src/Supplementary_fig.svg)
+
++ The detailed parameters of the model are provided in the table below.
+
+![model_parameters](src/model_parameters.png)
 
 
 
